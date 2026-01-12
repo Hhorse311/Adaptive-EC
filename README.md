@@ -40,6 +40,7 @@ This project was developed to analyze the robustness and efficiency of the adapt
 
 Execution Guide
 Run the Main Simulation: Navigate to the project's root directory in your terminal and execute the following command. The script will run multiple simulation rounds and print the final averaged results.
+   ```bash
   python main.py
 
 
